@@ -1,4 +1,3 @@
-# app.py
 def add(a, b):
-    """Adds two numbers."""
+    print(f"Adding {a} and {b}")  # Add a print statement
     return a + b
